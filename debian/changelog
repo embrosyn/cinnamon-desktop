@@ -17,6 +17,12 @@ cinnamon-desktop (4.4.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat, 16 Nov 2019 11:50:26 +0100
 
+cinnamon-desktop (4.2.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 06 Oct 2019 20:16:16 +0200
+
 cinnamon-desktop (4.2.0) tina; urgency=medium
 
   [ Michael Webster ]
